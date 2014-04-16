@@ -9,3 +9,13 @@ header h1 {
 	bottom: 0;
 	font-size: 2em;
 }
+
+.panel.callout {
+	background: blue;
+}
+
+.tabs-content {
+	border: 1px solid black;
+	border-top: none;
+	padding: 10px;
+}
