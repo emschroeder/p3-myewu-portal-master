@@ -1,1 +1,11 @@
-/* My Styles */
+/* Masthead */
+header {
+	position: relative;
+}
+
+header h1 {
+	position: absolute;
+	left: 48px;
+	bottom: 0;
+	font-size: 2em;
+}
